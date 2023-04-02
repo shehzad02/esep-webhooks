@@ -1,0 +1,6 @@
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll

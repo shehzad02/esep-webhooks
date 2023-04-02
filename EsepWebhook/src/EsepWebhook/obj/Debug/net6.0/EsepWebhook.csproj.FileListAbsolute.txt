@@ -1,0 +1,5 @@
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.AssemblyReference.cache
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfoInputs.cache
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.AssemblyInfo.cs
+/Users/shehzad/Dev/schoolwork/cis4930-enterprise-swe/assignment-x-eventing/EsepWebhook/src/EsepWebhook/obj/Debug/net6.0/EsepWebhook.csproj.CoreCompileInputs.cache
